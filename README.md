@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmedhassan139
 - 👀 I’m a Data Analyst | Mobile app developer (flutter).
-- 🌱 I’m currently learning UX/UI design
-- 💞️ I’m looking to collaborate on mobile app development.
+- 🌱 I also do UX Research.
+- 💞️ I looking forward to collaborating in Data analysis and research.
 - 📫 How to reach me www.linkedin.com/in/ahmed-hassan-6b287a11b
 
 <!---
